@@ -2,8 +2,8 @@
   "gameId": 1,
   "gameStatus":"F",
   "gameStatusDescription": "Final",
-  "gamePeriod" : 4,
-  "gameTime" : "24 min",
+  "gamePeriod" : 2,
+  "gameTime" : "92 min",
   "awayTeamScore" :  1,
   "homeTeamScore" : 2
 }

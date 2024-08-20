@@ -1,0 +1,9 @@
+{
+  "gameId": 2,
+  "gameStatus":"O",
+  "gameStatusDescription": "In Progress",
+  "gamePeriod" : 1,
+  "gameTime" : "24 min",
+  "awayTeamScore" :  2,
+  "homeTeamScore" : 3
+}
