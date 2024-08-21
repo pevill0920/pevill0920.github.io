@@ -4,11 +4,11 @@
       "gameId" : 27538496,
       "gameStatus" : "FINAL",
       "gamePeriod" : 2,
-      "gameTimeDisplayText": "75+2'",
+      "gameTimeDisplayText": "60+7'",
       "minute": 90,
       "extraTime": 6,
-      "awayTeamScore" : 30,
-      "homeTeamScore" : 80,
+      "awayTeamScore" : 10,
+      "homeTeamScore" : 20,
       "sportId" : 5,
       "sportName" : "SOCCER"
   }
