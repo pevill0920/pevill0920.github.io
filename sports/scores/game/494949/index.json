@@ -4,10 +4,10 @@
         "gameId" : 494949,
         "gameStatus" : "In Progress",
         "gamePeriod" : 3,
-        "gameTimeDisplayText": "3rd 6:00",
+        "gameTimeDisplayText": "2nd 3:00",
         "timeRemaining": "6:00",
-        "awayTeamScore" : 7,
-        "homeTeamScore" : 3,
+        "awayTeamScore" : 14,
+        "homeTeamScore" : 7,
         "sportId" : 1,
         "sportName" : "FOOTBALL"
     }
