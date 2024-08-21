@@ -6,8 +6,8 @@
         "gamePeriod" : 3,
         "gameTimeDisplayText": "1st 13:30",
         "timeRemaining": "6:00",
-        "awayTeamScore" : 14,
-        "homeTeamScore" : 7,
+        "awayTeamScore" : 21,
+        "homeTeamScore" : 10,
         "sportId" : 1,
         "sportName" : "FOOTBALL"
     }
