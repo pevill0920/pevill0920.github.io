@@ -2,6 +2,7 @@
   "gameData": {
       "id": 494949,
       "leagueId": 1236994,
+      "leagueName": "NFL Preseason",
       "leagueAbbreviation": "San Francisco at Las Vegas",
       "type": "Regular Season",
       "typeDetail": "Regular Season Detail",
@@ -13,7 +14,7 @@
           "colorPrimary": "020042",
           "colorSecondary": "DA291C",
           "nickName": "",
-          "mediumName": "San Francisco",
+          "mediumName": "49ers",
           "abbreviation": "49ers",
           "teamAssets": {
               "logoSvg": "https://cdn.freebiesupply.com/images/large/2x/san-francisco-49ers-logo-transparent.png",
@@ -25,7 +26,7 @@
           "colorPrimary": "ffe600",
           "colorSecondary": "000000",
           "nickName": "",
-          "mediumName": "Las Vegas",
+          "mediumName": "Raiders",
           "abbreviation": "Raiders",
           "teamAssets": {
               "logoSvg": "https://cdn.freebiesupply.com/images/large/2x/oakland-raiders-logo-transparent.png",
