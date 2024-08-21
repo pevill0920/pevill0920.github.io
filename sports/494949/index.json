@@ -17,7 +17,7 @@
           "mediumName": "49ers",
           "abbreviation": "49ers",
           "teamAssets": {
-              "logoSvg": "https://cdn.freebiesupply.com/images/large/2x/san-francisco-49ers-logo-transparent.png",
+              "logoSvg": "https://sports.cbsimg.net/fly/images/team-logos/alt/light/429.svg",
               "logoLarge": "https://cf-prod.apipufi.cbssports.com/images/soccer/logos/mobile/logos_250/1237062.png",
               "logoSmall": "https://cf-prod.apipufi.cbssports.com/images/soccer/logos/mobile/logos_100/1237062.png"
           }
@@ -29,7 +29,7 @@
           "mediumName": "Raiders",
           "abbreviation": "Raiders",
           "teamAssets": {
-              "logoSvg": "https://cdn.freebiesupply.com/images/large/2x/oakland-raiders-logo-transparent.png",
+              "logoSvg": "https://sports.cbsimg.net/fly/images/team-logos/alt/light/424.svg",
               "logoLarge": "https://cf-prod.apipufi.cbssports.com/images/soccer/logos/mobile/logos_250/1237048.png",
               "logoSmall": "https://cf-prod.apipufi.cbssports.com/images/soccer/logos/mobile/logos_100/1237048.png"
       }
