@@ -1,1 +1,38 @@
-
+{
+  "gameData": {
+      "id": 123456,
+      "leagueId": 1236994,
+      "leagueName": "English Football League",
+      "leagueAbbreviation": "EFL",
+      "type": "Regular Season",
+      "typeDetail": "Regular Season Detail",
+      "weekNumber": 11,
+      "scheduledTime": "2024-05-01T15:00:00-04:00",
+      "sportId" : 5,
+      "sportName" : "SOCCER",
+      "awayTeam": {
+          "colorPrimary": "020042",
+          "colorSecondary": "DA291C",
+          "nickName": "",
+          "mediumName": "Sheffield Wednesday",
+          "abbreviation": "Sheffield Wednesday",
+          "teamAssets": {
+              "logoSvg": "https://cdn.freebiesupply.com/logos/large/2x/sheffield-wednesday-fc-logo-png-transparent.png",
+              "logoLarge": "https://cf-prod.apipufi.cbssports.com/images/soccer/logos/mobile/logos_250/1237062.png",
+              "logoSmall": "https://cf-prod.apipufi.cbssports.com/images/soccer/logos/mobile/logos_100/1237062.png"
+          }
+      },
+      "homeTeam": {
+          "colorPrimary": "ffe600",
+          "colorSecondary": "000000",
+          "nickName": "",
+          "mediumName": "Leeds United",
+          "abbreviation": "Leeds United",
+          "teamAssets": {
+              "logoSvg": "https://cdn.freebiesupply.com/logos/large/2x/leeds-united-afc-3-logo-png-transparent.png",
+              "logoLarge": "https://cf-prod.apipufi.cbssports.com/images/soccer/logos/mobile/logos_250/1237048.png",
+              "logoSmall": "https://cf-prod.apipufi.cbssports.com/images/soccer/logos/mobile/logos_100/1237048.png"
+      }
+    }
+  }
+}
