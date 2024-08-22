@@ -2,13 +2,13 @@
   "success": "true",
   "liveGameScore" : {
       "gameId" : 27538496,
-      "gameStatus" : "FINAL",
+      "gameStatus" : "In Progress",
       "gamePeriod" : 2,
-      "gameTimeDisplayText": "90+6'",
+      "gameTimeDisplayText": "45+5'",
       "minute": 90,
       "extraTime": 6,
-      "awayTeamScore" : 2,
-      "homeTeamScore" : 4,
+      "awayTeamScore" : 0,
+      "homeTeamScore" : 0,
       "sportId" : 5,
       "sportName" : "SOCCER"
   }
