@@ -7,8 +7,8 @@
       "gameTimeDisplayText": "15'",
       "minute": 90,
       "extraTime": 6,
-      "awayTeamScore" : 0,
-      "homeTeamScore" : 0,
+      "awayTeamScore" : 1,
+      "homeTeamScore" : 1,
       "sportId" : 5,
       "sportName" : "SOCCER"
   }
